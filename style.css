@@ -1,0 +1,32 @@
+
+
+main {
+    min-height: 80vh;
+}
+
+footer {
+    height: 10vh;
+}
+
+.nav{
+    background-color: black;
+}
+.nav ul{
+    list-style-type: none;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    padding-top: 12px;
+    transition: 0,8s;
+}
+
+.nav a:hover {
+    background-color: white;
+}
+}
